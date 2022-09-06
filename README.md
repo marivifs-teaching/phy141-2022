@@ -1,4 +1,4 @@
-### phy141-2022
+### phy141-2022, Honors Classical Physics
 
 ## Course Description
 
@@ -13,6 +13,6 @@ The course has three 55-minute lectures per week with quizzes and assigned homew
 
 The course will be **in person** only. While there might be one or two instancs when the lectures might be delivered via zoon (mot possible this will not happen, but is an open option if I have to attend an in person conference elsewhere), all the students should assume that the lectures will be in person.
 
-* Lectures: MoWeFr 9:15 AM - 10:10 AM room P123, Physics building
-* Recitation: Fr 10:30 AM  - 11:25 AM room P123, Physics building
+* Lectures: MoWeFr 9:15 AM - 10:10 AM room P117, Physics building
+* Recitation: Fr 10:30 AM  - 11:25 AM room P117, Physics building
 
